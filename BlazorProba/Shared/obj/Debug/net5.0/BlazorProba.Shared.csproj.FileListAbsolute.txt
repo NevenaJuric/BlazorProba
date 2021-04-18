@@ -1,0 +1,12 @@
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\bin\Debug\net5.0\BlazorProba.Shared.deps.json
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\bin\Debug\net5.0\BlazorProba.Shared.dll
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\bin\Debug\net5.0\ref\BlazorProba.Shared.dll
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\bin\Debug\net5.0\BlazorProba.Shared.pdb
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.csprojAssemblyReference.cache
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.AssemblyInfoInputs.cache
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.AssemblyInfo.cs
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.csproj.CoreCompileInputs.cache
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.dll
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\ref\BlazorProba.Shared.dll
+D:\User Files\Documents\Nevena\Fakultet\Master rad\BlazorProba\BlazorProba\Shared\obj\Debug\net5.0\BlazorProba.Shared.pdb

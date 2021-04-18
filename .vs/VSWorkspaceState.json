@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorProba",
+    "\\BlazorProba\\Client",
+    "\\BlazorProba\\Client\\Pages",
+    "\\BlazorProba\\Server"
+  ],
+  "SelectedNode": "\\BlazorProba\\Client\\Pages\\Counter.razor",
+  "PreviewInSolutionExplorer": false
+}
